@@ -1,0 +1,15 @@
+﻿{
+  "name": "Yesamanna",
+  "short_name": "Yesamanna",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 64x64 128x128",
+      "type": "image/x-icon"
+    }
+  ]
+}
